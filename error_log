@@ -1,0 +1,152 @@
+[26-May-2017 18:41:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:42:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:43:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:43:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/r22108nb/public_html/seminario/classes/util.php on line 1
+[26-May-2017 18:44:41] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 18:54:18] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 18:56:48] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 18:57:25] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 18:58:55] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:00:04] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:00:05] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:00:21] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:00:21] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:00:21] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:00:35] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:01:26] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:01:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:01:29] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:01:29] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:01:29] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:01:29] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:01:29] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:01:29] PHP Warning:  include(view/candidatos/incluir.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/includes/incluir_pag.php on line 10
+[26-May-2017 19:01:29] PHP Warning:  include(view/candidatos/incluir.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/includes/incluir_pag.php on line 10
+[26-May-2017 19:01:29] PHP Warning:  include(view/candidatos/incluir.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/includes/incluir_pag.php on line 10
+[26-May-2017 19:01:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'view/candidatos/incluir.php' for inclusion (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/includes/incluir_pag.php on line 10
+[26-May-2017 19:01:32] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:02:05] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:02:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:02:06] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:02:06] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:02:06] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:02:06] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:02:06] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:02:06] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:02:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:02:09] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:19:44] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:19:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:19:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:19:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:19:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:19:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:19:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:19:52] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:19:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:19:57] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:20:31] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:20:37] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:20:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:20:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:20:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:20:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:20:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:20:37] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:20:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:20:52] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:20:55] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:20:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:20:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:20:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:20:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:20:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:20:55] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:20:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:20:57] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:21:34] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:21:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:21:38] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:21:38] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:21:38] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:21:38] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:21:38] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:21:38] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:21:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:21:44] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:22:41] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:23:09] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:24:18] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:24:23] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:26:48] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:26:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:26:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:26:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:26:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:26:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:26:52] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:26:52] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:26:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:26:55] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  idusuarios in /home/r22108nb/public_html/seminario/controles/publico.php on line 26
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  cpf in /home/r22108nb/public_html/seminario/controles/publico.php on line 50
+[26-May-2017 19:26:55] PHP Notice:  Undefined index:  ok in /home/r22108nb/public_html/seminario/controles/index.php on line 23
+[26-May-2017 19:32:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:32:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:32:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:32:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:32:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:32:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:32:30] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:32:30] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:32:37] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:32:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:32:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:32:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:32:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:32:37] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:32:37] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:32:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:01] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:39:01] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:39:01] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:39:01] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:39:01] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:39:01] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:39:01] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:39:05] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:39:05] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:39:05] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:39:05] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:39:05] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:39:05] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:05] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:39:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:39:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:39:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:39:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:39:30] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:39:30] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:30] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/r22108nb/public_html/seminario/menu.php on line 1
+[26-May-2017 19:39:32] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 37
+[26-May-2017 19:39:32] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 86
+[26-May-2017 19:39:32] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 133
+[26-May-2017 19:39:32] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/menu.php on line 179
+[26-May-2017 19:39:32] PHP Notice:  Undefined index:  idperfil in /home/r22108nb/public_html/seminario/default.php on line 132
+[26-May-2017 19:39:32] PHP Warning:  require_once(controles/inscricao.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
+[26-May-2017 19:39:32] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'controles/inscricao.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/r22108nb/public_html/seminario/view/candidatos/incluir.php on line 2
